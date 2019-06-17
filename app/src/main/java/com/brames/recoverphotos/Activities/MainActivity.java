@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity
     private AdView mAdView;
     private View header;
 
-
+    String a="";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
