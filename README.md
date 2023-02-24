@@ -31,6 +31,9 @@ Last update:
 
 Demo APK : http://bit.ly/2JV2jDc
 
+For news update contact me :
+alibrames@gmail.com
+
 # Donate
 For buy me a coffe  this is my paypal : alibrames@gmail.com
 
