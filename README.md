@@ -35,7 +35,7 @@ Last update:
 
 Demo APK : http://bit.ly/2JV2jDc
 
-For new update contact me :
+The latest update is currently unavailable on Github. Should you require further information, kindly contact me directly.
 alibrames@gmail.com
 
 # Donate
