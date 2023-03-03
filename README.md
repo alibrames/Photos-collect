@@ -1,5 +1,9 @@
 # Photo Recover Android Application
 
+Demo APK : http://bit.ly/2JV2jDc
+
+# The latest update is currently unavailable on Github. Should you require further information, kindly contact me directly
+
 This application is for illiterate users, those who delete an image in the gallery and do not know how to search in the hidden directory, then the image can be in a hidden directory (whatsapp folder for example) so this application can help these users to recover their images.
 
 Note : This app does not restore a deleted image on memory but it is effective to search hidden photo on mobile phone, it is designed for illiterate users
@@ -31,7 +35,7 @@ Last update:
 
 Demo APK : http://bit.ly/2JV2jDc
 
-For news update contact me :
+For new update contact me :
 alibrames@gmail.com
 
 # Donate
